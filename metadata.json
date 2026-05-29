@@ -1,0 +1,6 @@
+{
+  "name": "Samsung Device Care & Diagnostics",
+  "description": "An interactive One UI-inspired Device Care suite and system diagnostics simulator with authorized repair guides, test workflows, and battery status metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
